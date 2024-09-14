@@ -5,7 +5,7 @@ module.exports.config = {
   credits: "august",
   description: "Guide for new users",
   commandCategory: "system",
-  usages: "/help",
+  usages: ".help",
   hide: true,
   usePrefix: true,
   cooldowns: 5,
